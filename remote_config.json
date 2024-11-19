@@ -1,0 +1,16 @@
+{
+  "showAds":true,
+  "showWeb":true,
+  "adsInterval":40,
+  "showAppOpenAd":true,
+  "showFirstAd":false,
+  "showInterstitial":true,
+  "showTestAds":true,
+  "showBannerAds":true,
+  "bannerAdUnit":"ca-app-pub-7996006950744275/7685359457",
+  "interstitialAdUnit":"ca-app-pub-7996006950744275/8998441124",
+  "openAppAdUnitId":"ca-app-pub-7996006950744275/4292636288",
+  "nativeAdUnit":"ca-app-pub-7996006950744275/1717178485",
+  "rewardedAdUnit":"ca-app-pub-7996006950744275/9353391274"
+  
+}
