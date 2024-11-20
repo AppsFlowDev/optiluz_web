@@ -13,6 +13,11 @@
   "nativeAdUnit":"ca-app-pub-7996006950744275/1717178485",
   "rewardedAdUnit":"ca-app-pub-7996006950744275/9353391274",
   "rewardedInterstitialAdUnit":"ca-app-pub-7996006950744275/7488379918",
-  "showAdCountChat":2
+  "showAdCountChat":2,
+  "questionList": [
+    "a",
+    "b",
+    "c"
+  ]
   
 }
